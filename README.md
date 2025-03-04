@@ -1,6 +1,6 @@
 # Final Project Results
 
-This document contains the results of the final project for the robotics course.
+This document contains the results of the capstone project for the Northwestern Modern Robotics specialization.
 
 ## Overview
 
